@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.covicareproject">
+
+
+        <uses-permission android:name="android.permission.INTERNET" />
+        <uses-permission android:name="android.permission.CAMERA" />
+        <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.CALL_PHONE" />
+
+        <application
+            android:allowBackup="true"
+            android:icon="@drawable/mph"
+            android:label="@string/app_name"
+            android:roundIcon="@drawable/mph"
+            android:supportsRtl="true"
+            android:theme="@style/Theme.CoviCareProject"
+            android:usesCleartextTraffic="true">
+            <activity
+                android:name=".NearestHouse"
+                android:exported="false" />
+            <activity
+                android:name=".MedicineRequestDetails"
+                android:exported="false" />
+            <activity
+                android:name=".EmergencyRequestDetails"
+                android:exported="false" />
+            <activity
+                android:name=".ViewVolunteers"
+                android:exported="false" />
+            <activity
+                android:name=".SendMedicineRequest"
+                android:exported="false" />
+            <activity
+                android:name=".VolunteerHome"
+                android:exported="false" />
+            <activity
+                android:name=".UserHome"
+                android:exported="false" />
+            <activity
+                android:name=".ViewVolunteerAndCall"
+                android:exported="false" />
+            <activity
+                android:name=".ViewAshaworkerAndCall"
+                android:exported="false" />
+            <activity
+                android:name=".ViewMedicineReqStatus"
+                android:exported="false" />
+            <activity
+                android:name=".VolunteerProfile"
+                android:exported="false" />
+            <activity
+                android:name=".ViewEmergencyOptionRequest"
+                android:exported="false" />
+            <activity
+                android:name=".ViewEmergencyOptions"
+                android:exported="false" />
+            <activity
+                android:name=".ViewApprovedMedRequest"
+                android:exported="false" />
+            <activity
+                android:name=".MemberDetails"
+                android:exported="false" />
+            <activity
+                android:name=".HouseDetails"
+                android:exported="false" />
+            <activity
+                android:name=".ViewMember"
+                android:exported="false" />
+            <activity
+                android:name=".AddMember"
+                android:exported="false" />
+            <activity
+                android:name=".ViewHouse"
+                android:exported="false" />
+            <activity
+                android:name=".AddHouse"
+                android:exported="false" />
+            <activity
+                android:name=".ViewAshaWorkerProfile"
+                android:exported="false" />
+            <activity
+                android:name=".AshaWorkerHome"
+                android:exported="false" />
+            <activity
+                android:name=".Login"
+                android:exported="false" />
+            <activity
+                android:name=".MainActivity"
+                android:exported="true">
+                <intent-filter>
+                    <action android:name="android.intent.action.MAIN" />
+
+                    <category android:name="android.intent.category.LAUNCHER" />
+                </intent-filter>
+            </activity>
+        </application>
+
+    </manifest>

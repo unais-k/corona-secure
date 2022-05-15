@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_add_house.xml" value="0.22" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_add_member.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_asha_worker_home.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_emergency_request_details.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_house_details.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_medicine_request_details.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_member_details.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_nearest_house.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_send_medicine_request.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_user_home.xml" value="0.15" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_approved_med_request.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_asha_worker_profile.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_ashaworker_and_call.xml" value="0.14" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_emergency_option_request.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_emergency_options.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_house.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_medicine_req_status.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_member.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_volunteer_and_call.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_view_volunteers.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_volunteer_home.xml" value="0.1" />
+        <entry key="..\:/Users/UNAIS/AndroidStudioProjects/CoviCareProject/app/src/main/res/layout/activity_volunteer_profile.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
